@@ -1,3 +1,7 @@
+# XAMPP MySQL Issue Resolver
+
+A simple Python script to help resolve common MySQL issues in XAMPP, especially when the MySQL server fails to start due to corrupted or missing data files.
+
 ```bash
 # Xampp MySQL issue
 [mysql] Error: MySQL shutdown unexpectedly.
